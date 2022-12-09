@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+  <pregunta>
+    En que año llego el hombre a la Luna?
+    <respuesta1>En 1970</respuesta1>
+    <respuesta2>En 1969</respuesta2>
+    <respuesta3>En 1968</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    Quien fue el primer presidente de la democracia espanola despues del franquismo?
+    <respuesta1>Adolfo Suarez</respuesta1>
+    <respuesta2>Pedro Sanchez</respuesta2>
+    <respuesta3>Jose maria Aznar</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    Quien marco el gol que hizo ganar a España el mundial en 2010?
+    <respuesta1>Puyol</respuesta1>
+    <respuesta2>Fernando Torres</respuesta2>
+    <respuesta3>Iniesta</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    Cual es la montana mas alta de Europa?
+    <respuesta1>Monte Elbrus</respuesta1>
+    <respuesta2>Everest</respuesta2>
+    <respuesta3>Montblanc</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    Cual es la lengua mas hablada del mundo?
+    <respuesta1>Ingles</respuesta1>
+    <respuesta2>Chino</respuesta2>
+    <respuesta3>Espanol</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    cual es el pais mas visitado del mundo?
+    <respuesta1>China</respuesta1>
+    <respuesta2>Francia</respuesta2>
+    <respuesta3>Espana</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    en que mes el sol esta mas cerca de la tierra?
+    <respuesta1>Julio</respuesta1>
+    <respuesta2>Marzo</respuesta2>
+    <respuesta3>Diciembre</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    Cuando es el cumpleanos de Fer?
+    <respuesta1>15 de julio</respuesta1>
+    <respuesta2>12 de julio</respuesta2>
+    <respuesta3>7 de julio</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    Cuanto pesa Simba?
+    <respuesta1>4kg</respuesta1>
+    <respuesta2>2kg</respuesta2>
+    <respuesta3>5kg</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    Que nivel tiene Alicia de ingles?
+    <respuesta1>B1</respuesta1>
+    <respuesta2>B2</respuesta2>
+    <respuesta3>C1</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    que color tiene dos veces la bander de espania?
+    <respuesta1>rojo</respuesta1>
+    <respuesta2>verde</respuesta2>
+    <respuesta3>amarillo</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+</juego>
+
